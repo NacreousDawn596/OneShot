@@ -44,7 +44,7 @@ Optional: getting a list of vulnerable to pixie dust devices for highlighting in
 ## Arch Linux
 **Installing requirements**
  ```
- sudo pacman -S wpa_supplicant pixiewps wget python
+ sudo pacman -S wpa_supplicant pixiewps wget python aircrack-ng
  ```
 **Getting OneShot**
  ```
