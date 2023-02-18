@@ -11,6 +11,7 @@
  - [Wpa supplicant](https://www.w1.fi/wpa_supplicant/);
  - [Pixiewps](https://github.com/wiire-a/pixiewps);
  - [iw](https://wireless.wiki.kernel.org/en/users/documentation/iw).
+ - [Aircrack-ng](https://www.aircrack-ng.org/).
 # Setup
 ## Debian/Ubuntu
 **Installing requirements**
