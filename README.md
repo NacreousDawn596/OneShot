@@ -11,7 +11,7 @@
  - [Wpa supplicant](https://www.w1.fi/wpa_supplicant/);
  - [Pixiewps](https://github.com/wiire-a/pixiewps);
  - [iw](https://wireless.wiki.kernel.org/en/users/documentation/iw).
- - [Aircrack-ng](https://www.aircrack-ng.org/).
+ 
 # Setup
 ## Debian/Ubuntu
 **Installing requirements**
@@ -45,7 +45,7 @@ Optional: getting a list of vulnerable to pixie dust devices for highlighting in
 ## Arch Linux
 **Installing requirements**
  ```
- sudo pacman -S wpa_supplicant pixiewps wget python aircrack-ng
+ sudo pacman -S wpa_supplicant pixiewps wget python iw
  ```
 **Getting OneShot**
  ```
